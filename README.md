@@ -45,6 +45,12 @@ language and facilitating cooperation between technical and non-technical teams
 
 ### Professional Experience
 
+#### High Tech Pet (October 2023 – Present)
+##### Android Developer
+
+- Updated Android App API version and React Native dependencies that had not been updated in 2 years within 2 weeks before Google Play deadline
+- Setup ESP32 Bluetooth/WiFi module as a simulation for the Smart Pet Door to be controlled by the Android App
+
 #### TradersPost (February 2023 – Present)
 ##### Software Developer
 
